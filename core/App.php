@@ -3,6 +3,7 @@
 //A place to register and bind dependencies
 //Works as a storage place
 
+namespace App\Core;
 
 class App
 {

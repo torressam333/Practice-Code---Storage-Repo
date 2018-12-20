@@ -2,6 +2,8 @@
 //Controllers typically:
 //1.Receive request 2.Delegate 3.Return a response
 
+namespace App\Controllers;
+
 class PagesController
 {
     public function home()
